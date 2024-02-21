@@ -1,6 +1,6 @@
 ---
 title: "The Quarto Report"
-author: ""
+author: Person A
 format: html
 editor: visual
 embed-resources: true
