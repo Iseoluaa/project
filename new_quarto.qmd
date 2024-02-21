@@ -1,6 +1,6 @@
 ---
 title: "The Quarto Report"
-author: "Iseoluwa"
+author: ""
 format: html
 editor: visual
 embed-resources: true
